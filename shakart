@@ -1,0 +1,7 @@
+{"shakart":[    
+    {"name":"abcdef", "stringt":"hi", "age":23},    
+    {"name":"ghijklm", "stringt":"hello"},  
+    {"name":"nopqr", "pass":true}, 
+    {"name":"stuvwxyz", "pass":true} 
+
+]} 
